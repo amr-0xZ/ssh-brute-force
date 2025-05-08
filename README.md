@@ -13,4 +13,4 @@
   `python ssh-brute.py TARGET-IP USERNAME PATH\TO\YOUR\LIST.txt`
 
 ## How to use in linux:
-- use the same commands but replace every "\" with "/" and every "python" with "python3"
+- use the same commands but replace every `\` with `/` and every `python` with `python3`
