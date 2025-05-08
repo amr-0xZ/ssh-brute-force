@@ -3,7 +3,7 @@
 ## How to use in windows:
 - first navegate to the script directory:
   `cd ssh-brute-force`
-- create vertual environment to avoid errors:
+- create virtual environment to avoid errors:
   `python -m venv .env`
 - enable the env:
   `.\.env\Scripts\activate`
