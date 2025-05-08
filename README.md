@@ -1,7 +1,7 @@
 # ssh-brute-force
 
 ## How to use in windows:
-- first navegate to the script directory:
+- first navigate to the script directory:
   `cd ssh-brute-force`
 - create virtual environment to avoid errors:
   `python -m venv .env`
